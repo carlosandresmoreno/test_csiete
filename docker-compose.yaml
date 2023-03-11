@@ -1,0 +1,14 @@
+version: '3.8'
+services:
+  app:
+    container_name: app-test-dns
+    build: .
+    ports:
+      - 4500:4500
+    volumes:
+      - ./app:/app
+
+  
+
+
+ 

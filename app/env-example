@@ -1,0 +1,5 @@
+HOST=34.170.25.61
+USER=test
+PASSWORD=admin
+DBNAME=dns_test
+PORT=3306
