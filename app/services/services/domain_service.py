@@ -19,6 +19,21 @@ from .dns_service import CrudDns
 
 class CrudDomain:
 
+
+    async def get_domain(db_connection, data: int):
+
+        try:
+            db_domain = models.Domains
+            query = db_connection.query(db_domain).filter(db_domain.id_dominio == data)
+            for q in query:
+                domain = q
+            print(domain)
+                
+        except Exception as e:
+            print(e)
+        
+        return DomainResponse(**domain.__dict__)
+
     async def verification_domain(db_connection, domain: DomainBase):
         try:
             list=[]
@@ -62,11 +77,11 @@ class CrudDomain:
             db_connection.commit()
             db_connection.refresh(db_domain)
 
-            result_type_DNS = CrudDns.get_DNS_types(db_connection)
-            read_DNS = Read_DNS.read_DNS(db_domain,result_create_DNS)
-            result_create_DNS = await CrudDns.create_dns(db_connection,read_DNS)
-            print(result_create_DNS)
+            result_type_DNS = await CrudDns.get_DNS_types(db_connection)
 
+            for model_type_DNS in result_type_DNS:
+                read_DNS = Read_DNS.read_DNS(db_domain,model_type_DNS)
+                result_create_DNS = await CrudDns.create_dns(db_connection,read_DNS)
 
         except Exception as e:
             print(e)

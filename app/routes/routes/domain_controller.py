@@ -11,6 +11,18 @@ from services.index import CrudDomain
 
 domain = APIRouter(tags=["CRUD_DOMAIN"])
 
+
+
+@domain.get(
+    path="/get_domain",
+    response_description="Get successfully",
+    response_model= DomainResponse
+
+)
+async def get_domain(data: int, db_connection:Session = Depends(get_db)):
+     return await CrudDomain.get_domain(db_connection,data)
+
+
 @domain.post(
     path="/create_domain",
     response_description="Created successfully",

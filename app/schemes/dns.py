@@ -12,6 +12,9 @@ class ResponseDns(DnsBase):
     id_dominio:int
     nombre_dns:str
 
+    class Config:
+        orm_mode = True
+
 class ResponseDnsTypes(BaseModel):
     id_tipo:int
     nombre:str = Field(max_length= 255)

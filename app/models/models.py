@@ -9,6 +9,7 @@ class Domains(Base):
     id_dominio = Column(Integer, primary_key=True, autoincrement=True)
     nombre_dominio = Column(String(255), nullable=False)
     is_active = Column(Boolean, default=True, nullable=False)
+    dns = relationship("DNS", back_populates = "domain")
 
 class DnsType(Base):
     __tablename__ = "tipos_dns"
@@ -24,6 +25,7 @@ class DNS(Base):
     id_dominio = Column(Integer,ForeignKey("dominios.id_dominio"))  # Falta terminar modelitos 
     id_tipo = Column(Integer, ForeignKey("tipos_dns.id_tipo")) 
     nombre_dns = Column(String(255), nullable=False)
+    domain = relationship("Domains", back_populates= "dns")
     
 class SystemLogs(Base):
     __tablename__ = "system_logs"
