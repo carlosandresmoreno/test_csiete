@@ -7,6 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 #routes
 from routes.index import domain
 from routes.index import dns
+from routes.index import logs
 
 # Principal fastapi instance
 app = FastAPI(
@@ -17,6 +18,7 @@ app = FastAPI(
 #routes
 app.include_router(domain)
 app.include_router(dns)
+app.include_router(logs)
 
 #system cors
 app.add_middleware(

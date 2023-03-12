@@ -1,0 +1,48 @@
+2023-03-12 18:03:29,425 - INFO - In facebook.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: d.ns.facebook.com., Current DNS: c.ns.facebook.com.
+2023-03-12 18:03:31,246 - INFO - In facebook.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA", Current DNS: "ghfksmtc0x74q6g76g8nnw3psmx8zkwp"
+2023-03-12 18:03:32,681 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 aspmx3.googlemail.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-12 18:03:34,012 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.193
+2023-03-12 18:03:35,955 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.u06.twtrdns.net., Current DNS: ns3.p34.dynect.net.
+2023-03-12 18:03:38,005 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "google-site-verification=h6dJIv0HXjLOkGAotLAWEzvoi9SxqP4vjpx98vrCvvQ"
+2023-03-12 18:03:41,492 - INFO - In bork.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.yandexcloud.net., Current DNS: ns8-l2.nic.ru.
+2023-03-12 18:03:44,146 - INFO - In bork.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "ZOOM_verify_VuPw_9xMRF2v57t1XnGNdg", Current DNS: "google-site-verification=Naa2XGRCG_yuUO6JIhvM-jcw_bfNUiaxY1J2PK1TZDc"
+2023-03-12 18:03:47,942 - INFO - In tinder.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: , Current DNS: ns-1483.awsdns-57.org.
+2023-03-12 18:03:50,494 - INFO - In tinder.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: , Current DNS: "OSSRH-49342"
+2023-03-12 18:03:51,931 - INFO - In instagram.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 mxa-00082601.gslb.pphosted.com., Current DNS: 10 mxb-00082601.gslb.pphosted.com.
+2023-03-12 18:03:55,412 - INFO - In instagram.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: d.ns.instagram.com., Current DNS: b.ns.instagram.com.
+2023-03-12 18:39:23,653 - INFO - In facebook.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: SADAD, Current DNS: 10 smtpin.vvv.facebook.com.
+2023-03-12 18:39:28,461 - INFO - In facebook.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "google-site-verification=sK6uY9x7eaMoEMfn3OILqwTFYgaNp4llmguKI-C3_iA", Current DNS: "v=spf1 redirect=_spf.facebook.com"
+2023-03-12 18:39:31,327 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 aspmx3.googlemail.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-12 18:39:35,015 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.u06.twtrdns.net., Current DNS: ns3.p34.dynect.net.
+2023-03-12 18:39:38,701 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "mixpanel-domain-verify=164dda91-31f4-41e8-a816-0f59b38fea30"
+2023-03-12 18:39:41,366 - INFO - In bork.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 srvmailtdl.electroflot.ru., Current DNS: 20 srvmailt.electroflot.ru.
+2023-03-12 18:39:45,460 - INFO - In bork.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.yandexcloud.net., Current DNS: ns4-cloud.nic.ru.
+2023-03-12 18:39:49,453 - INFO - In tinder.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 52.84.150.39, Current DNS: 52.84.150.55
+2023-03-12 18:39:52,320 - INFO - In tinder.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: , Current DNS: ns-684.awsdns-21.net.
+2023-03-12 18:39:56,934 - INFO - In tinder.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: , Current DNS: "OSSRH-49342"
+2023-03-12 18:39:59,699 - INFO - In instagram.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 mxa-00082601.gslb.pphosted.com., Current DNS: 10 mxb-00082601.gslb.pphosted.com.
+2023-03-12 18:40:03,484 - INFO - In instagram.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: d.ns.instagram.com., Current DNS: c.ns.instagram.com.

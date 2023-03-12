@@ -30,7 +30,7 @@ class DNS(Base):
 class SystemLogs(Base):
     __tablename__ = "system_logs"
     
-    id_logs = Column(Integer, primary_key=True, autoincrement=True)
+    id_log = Column(Integer, primary_key=True, autoincrement=True)
     id_dns = Column(Integer, ForeignKey("DNS.id_dns"))
-    description = Column(String(255), nullable=False)
+    description = Column(String(1000), nullable=False)
     date = Column(DateTime, nullable=False)
