@@ -8,3 +8,4 @@ typing_extensions==4.5.0
 sqlalchemy
 pymysql
 dnspython==2.3.0
+cryptography==39.0.2

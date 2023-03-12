@@ -91,7 +91,6 @@ class CrudDns:
             )
 
         if db_DNS is not None:
-            print(db_DNS.__dict__)
             try:
                 db_DNS.nombre_dns = name_DNS
                 db_connection.commit()
@@ -137,7 +136,7 @@ class DnService:
     def run_verification(self, db_connection: Session):
         self.stop = 1
         while True:
-            time.sleep(10)
+            time.sleep(60)
             domains = db_connection.query(models.Domains).all()
             type_dns = db_connection.query(models.DnsType).all()
 
@@ -170,6 +169,7 @@ class DnService:
                             )
                         except Exception as e:
                             print(e)
+            print('completed process!!')
 
             if self.stop == 0:
                 break

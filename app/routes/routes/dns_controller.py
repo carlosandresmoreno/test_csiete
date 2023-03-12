@@ -47,14 +47,11 @@ def DNS_verification(db_connection: Session = Depends(get_db)):
 
 @dns.get(path="/get_status", response_description="Get Succesfully")
 def get_status(db_connection: Session = Depends(get_db)):
-    ##DnService.run_verification(db_connection)
-
     return {"stop": dn_service.stop, "thread_status": dn_service.run.is_alive()}
 
 
 @dns.post(path="/change_status", response_description="Get Succesfully")
 def change_status(data: int, db_connection: Session = Depends(get_db)):
-    ##DnService.run_verification(db_connection)
     dn_service.stop = data
 
 
