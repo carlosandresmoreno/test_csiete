@@ -11,3 +11,4 @@ COPY ./app /app
 EXPOSE 4500
 
 CMD ["uvicorn","manage:app","--host=0.0.0.0","--port=4500","--reload"]
+

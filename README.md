@@ -27,6 +27,7 @@ a una base de datos relacional
 5 - Ejecucion de la API
 ```sh
     uvicorn app.manage:app --host=0.0.0.0 --port=4500 --reload
+    en el navegador colocar la ruta http://localhost:4500/run_verification_dns y el servicio queda ejecutandose automaticamente.
 ```
 
 ## Correr el proyecto usando Docker
@@ -42,4 +43,13 @@ Puedes correr la API y la base de datos de la siguiente manera en la raiz del pr
 ```sh
     sudo docker-compose build
     sudo docker-compose up
+
+    en el navegador colocar la ruta http://localhost:4500/run_verification_dns y el servicio queda ejecutandose automaticamente.
+```
+```
+
+```sh
+
+    En la ruta http://localhost:4500/docs (swagger) podemos visualizar los endpoints y tambien los estados del servicio automatico en el TAG de CRUD_DNS (/get_status,change_status(0))
+
 ```

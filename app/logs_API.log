@@ -1,0 +1,198 @@
+2023-03-13 03:15:53,778 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 142.250.78.14, Current DNS: 172.217.173.206
+2023-03-13 03:15:55,010 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns2.mytrafficmanagement.com., Current DNS: ns1.mytrafficmanagement.com.
+2023-03-13 03:16:56,893 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 72.14.178.174, Current DNS: 45.33.30.197
+2023-03-13 03:16:57,517 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 aspmx.l.google.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-13 03:16:57,774 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 03:16:58,108 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:17:59,248 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.33.30.197, Current DNS: 45.56.79.23
+2023-03-13 03:17:59,997 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.193, Current DNS: 104.244.42.1
+2023-03-13 03:18:00,462 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 03:19:01,885 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 ASPMX3.GOOGLEMAIL.com., Current DNS: 10 aspmx.l.google.com.
+2023-03-13 03:19:02,091 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.r06.twtrdns.net., Current DNS: b.r06.twtrdns.net.
+2023-03-13 03:20:03,539 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.56.79.23, Current DNS: 72.14.178.174
+2023-03-13 03:20:04,088 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 aspmx.l.google.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-13 03:20:04,232 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.65
+2023-03-13 03:20:04,428 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 03:21:05,539 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 72.14.178.174, Current DNS: 45.33.30.197
+2023-03-13 03:21:06,014 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.1
+2023-03-13 03:21:06,468 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:22:07,295 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.33.30.197, Current DNS: 72.14.178.174
+2023-03-13 03:22:08,014 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.65
+2023-03-13 03:22:08,215 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.r06.twtrdns.net., Current DNS: b.r06.twtrdns.net.
+2023-03-13 03:22:08,633 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 03:23:08,803 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 172.217.173.206, Current DNS: 142.250.78.14
+2023-03-13 03:23:10,009 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.mytrafficmanagement.com., Current DNS: ns2.mytrafficmanagement.com.
+2023-03-13 03:23:10,465 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.193
+2023-03-13 03:23:10,632 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 03:23:11,015 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:24:11,772 - INFO - In instagram.com domain there was a DNS change: DNS Type: AAAA, 
+                            Old DNS: 2a03:2880:f212:1e4:face:b00c:0:4420, Current DNS: 2a03:2880:f22b:e5:face:b00c:0:4420
+2023-03-13 03:24:12,799 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 72.14.178.174, Current DNS: 96.126.123.244
+2023-03-13 03:24:13,210 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns2.mytrafficmanagement.com., Current DNS: ns1.mytrafficmanagement.com.
+2023-03-13 03:24:13,925 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.193, Current DNS: 104.244.42.65
+2023-03-13 03:24:15,776 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 03:25:16,594 - INFO - In instagram.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 157.240.241.174, Current DNS: 157.240.6.174
+2023-03-13 03:25:18,539 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.1
+2023-03-13 03:25:19,471 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:26:19,782 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 142.250.78.14, Current DNS: 172.217.173.206
+2023-03-13 03:26:22,540 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.129
+2023-03-13 03:26:23,099 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 03:27:23,471 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 172.217.173.206, Current DNS: 142.250.78.14
+2023-03-13 03:27:25,032 - INFO - In instagram.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 157.240.6.174, Current DNS: 157.240.241.174
+2023-03-13 03:27:27,569 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.1
+2023-03-13 03:27:28,395 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:28:28,641 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 142.250.78.14, Current DNS: 172.217.173.206
+2023-03-13 03:28:28,839 - INFO - In instagram.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 157.240.241.174, Current DNS: 157.240.6.174
+2023-03-13 03:28:29,444 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 96.126.123.244, Current DNS: 45.56.79.23
+2023-03-13 03:28:29,717 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.mytrafficmanagement.com., Current DNS: ns2.mytrafficmanagement.com.
+2023-03-13 03:28:30,101 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 ASPMX3.GOOGLEMAIL.com., Current DNS: 10 aspmx.l.google.com.
+2023-03-13 03:28:30,574 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 03:29:30,968 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 172.217.173.206, Current DNS: 142.250.78.14
+2023-03-13 03:29:32,507 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.56.79.23, Current DNS: 96.126.123.244
+2023-03-13 03:29:33,427 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.193
+2023-03-13 03:30:35,075 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 142.250.78.14, Current DNS: 172.217.173.206
+2023-03-13 03:30:36,510 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 96.126.123.244, Current DNS: 45.33.18.44
+2023-03-13 03:30:36,717 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns2.mytrafficmanagement.com., Current DNS: ns1.mytrafficmanagement.com.
+2023-03-13 03:30:37,743 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.r06.twtrdns.net., Current DNS: b.r06.twtrdns.net.
+2023-03-13 03:30:38,276 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 03:31:39,906 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.33.18.44, Current DNS: 96.126.123.244
+2023-03-13 03:31:41,025 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.193, Current DNS: 104.244.42.65
+2023-03-13 03:32:43,798 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 96.126.123.244, Current DNS: 72.14.178.174
+2023-03-13 03:32:44,713 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 aspmx.l.google.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-13 03:32:44,893 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.1
+2023-03-13 03:32:45,229 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 03:32:45,823 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 04:00:36,131 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 72.14.178.174, Current DNS: 45.56.79.23
+2023-03-13 04:00:37,084 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 ASPMX3.GOOGLEMAIL.com., Current DNS: 10 aspmx.l.google.com.
+2023-03-13 04:00:37,256 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.129
+2023-03-13 04:01:40,533 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 172.217.173.206, Current DNS: 142.250.78.14
+2023-03-13 04:01:42,073 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.56.79.23, Current DNS: 45.33.2.79
+2023-03-13 04:01:42,483 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.mytrafficmanagement.com., Current DNS: ns2.mytrafficmanagement.com.
+2023-03-13 04:01:43,195 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.65
+2023-03-13 04:01:43,389 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.r06.twtrdns.net., Current DNS: b.r06.twtrdns.net.
+2023-03-13 04:16:46,676 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.33.2.79, Current DNS: 45.79.19.196
+2023-03-13 04:16:47,026 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns2.mytrafficmanagement.com., Current DNS: ns1.mytrafficmanagement.com.
+2023-03-13 04:16:47,490 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.1
+2023-03-13 04:16:48,200 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6", Current DNS: "apple-domain-verification=zd1iHoEO9LILEQIq"
+2023-03-13 04:17:50,139 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.79.19.196, Current DNS: 173.255.194.134
+2023-03-13 04:17:52,090 - INFO - In twitter.com domain there was a DNS change: DNS Type: TXT, 
+                            Old DNS: "apple-domain-verification=zd1iHoEO9LILEQIq", Current DNS: "0a8c0fc6-bfa5-4ea7-b09b-87f2989022d6"
+2023-03-13 04:18:52,498 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 142.250.78.14, Current DNS: 172.217.173.206
+2023-03-13 04:18:53,834 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 173.255.194.134, Current DNS: 45.79.19.196
+2023-03-13 04:18:54,551 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 10 aspmx.l.google.com., Current DNS: 30 ASPMX3.GOOGLEMAIL.com.
+2023-03-13 04:19:57,624 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.79.19.196, Current DNS: 198.58.118.167
+2023-03-13 04:19:58,545 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.1, Current DNS: 104.244.42.129
+2023-03-13 04:19:58,767 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 04:21:00,859 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 198.58.118.167, Current DNS: 45.79.19.196
+2023-03-13 04:21:01,939 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.65
+2023-03-13 04:21:02,258 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: a.r06.twtrdns.net., Current DNS: b.r06.twtrdns.net.
+2023-03-13 04:46:52,777 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.79.19.196, Current DNS: 72.14.185.43
+2023-03-13 04:46:53,419 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.65, Current DNS: 104.244.42.129
+2023-03-13 04:46:53,569 - INFO - In twitter.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: b.r06.twtrdns.net., Current DNS: a.r06.twtrdns.net.
+2023-03-13 04:47:55,199 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 72.14.185.43, Current DNS: 198.58.118.167
+2023-03-13 04:47:55,867 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.193
+2023-03-13 04:48:57,749 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 198.58.118.167, Current DNS: 45.33.30.197
+2023-03-13 04:48:58,159 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns1.mytrafficmanagement.com., Current DNS: ns2.mytrafficmanagement.com.
+2023-03-13 04:48:58,702 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.193, Current DNS: 104.244.42.129
+2023-03-13 04:49:59,670 - INFO - In google.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 172.217.173.206, Current DNS: 142.250.78.14
+2023-03-13 04:50:00,579 - INFO - In carlos.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 45.33.30.197, Current DNS: 72.14.185.43
+2023-03-13 04:50:00,893 - INFO - In carlos.com domain there was a DNS change: DNS Type: NS, 
+                            Old DNS: ns2.mytrafficmanagement.com., Current DNS: ns1.mytrafficmanagement.com.
+2023-03-13 04:50:01,251 - INFO - In twitter.com domain there was a DNS change: DNS Type: MX, 
+                            Old DNS: 30 ASPMX3.GOOGLEMAIL.com., Current DNS: 10 aspmx.l.google.com.
+2023-03-13 04:50:01,373 - INFO - In twitter.com domain there was a DNS change: DNS Type: A, 
+                            Old DNS: 104.244.42.129, Current DNS: 104.244.42.193

@@ -2,7 +2,9 @@ version: '3.8'
 services:
   app:
     container_name: app-dns_test
-    build: .
+    build: 
+      context: .
+      dockerfile: Dockerfile
     ports:
       - 4500:4500
     volumes:
@@ -10,7 +12,9 @@ services:
     depends_on:
       - db 
     network_mode: bridge
-    
+
+    hostname: api_server
+
   db:
     image: mysql:8.0
     cap_add:
@@ -26,11 +30,14 @@ services:
       - ./db/bd.sql:/docker-entrypoint-initdb.d/bd.sql
 
     network_mode: bridge
-    
-   
+      
+    hostname: db_server
+
 volumes:
   db:
     driver: local
+    
+
 
 
 
